@@ -1,0 +1,28 @@
+/*Element*/
+li {
+
+}
+/*class*/
+.hello {
+
+}
+/*Star*/
+* {
+	border: 1px solid lightgrey
+}
+/*Descendant Selector-selects everything in li that is an a tag*/
+li a {
+
+}
+/*Adjacent selector- uls adjacent(after h4)*/
+h4 + ul {
+
+}
+/*atribute selector-for specific atribute*/
+a[href="http://www.google.com"] {
+
+}
+/*nth of type-only third ul affected*/
+ul:nth-of-type(3){
+
+}

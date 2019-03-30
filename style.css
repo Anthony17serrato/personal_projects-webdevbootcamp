@@ -1,0 +1,15 @@
+p {
+	/*Content - Width and Height*/
+	width: 200px;
+	/*also is parcents width: 50%*/
+	/*height: ;*/
+	/*Border*/
+	border: 2px solid blue;
+	/*Padding*/
+	padding: 10px;
+	/*also padding-top... etc*/
+	/*Margin*/
+	/*margin-top: 100px;*/
+	/*margin: 20px 40px 500px 100px;*/
+	margin: 0 auto 0 auto;
+}

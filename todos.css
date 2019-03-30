@@ -1,0 +1,12 @@
+body {
+	background: orange;
+}
+li {
+	border: 2px solid red;
+}
+#special {
+	color: yellow;
+}
+.Highlight {
+	text-decoration: line-through;
+}

@@ -1,0 +1,16 @@
+.img-thumbnail img {
+	width: 100%;
+}
+.img-thumbnail {
+	padding: 0;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}.caption-full {
+	padding: 5px;
+}.card {
+	margin-bottom: 9px;
+}#title {
+	color: #1976d2;
+}#delete-form {
+	display: inline;
+}

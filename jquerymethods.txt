@@ -1,0 +1,32 @@
+val()//chnge values
+text()//set text
+attr()//sets/retrieves html element atributes
+html()//set html
+addClass(classname)
+removeClass(classname)
+toggleClass(classname)
+.first()
+.last()
+//events like onclick android
+$("button").click(function(){
+	$(jquery object).blahblahblah
+})
+$("input").keypress(function(event) {
+	if(event.which === 13){
+		alert("you hit enter!");
+	}
+})
+$("h1").on("mouseenter", function(){
+	$(this).css("color", "purple");
+})
+//effects
+$("button").on("click", function(){
+	$('div').fadeOut(1000, function(){
+		console.log("fade finished");
+	});	
+});
+$('div').fadeIn("slow",);
+.fadeToggle();
+.slideUp();
+.slideToggle();
+.remove();

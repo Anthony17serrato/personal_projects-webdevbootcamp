@@ -1,0 +1,23 @@
+h1 {
+	/*rgba(11,99,150,1)alows transparancy alph rnages from 0.0-1.0*/
+	color: #2979ff;
+	border-color: purple;
+	border-width: 2px;
+	border-style: solid;
+	/*this does the same
+	border: 5px solid purple;
+	*/
+}
+li {
+	color: green;
+}
+h4 {
+	color: purple;
+	background: #ffab00;
+}
+body {
+	background: pink;
+	/*background: url("https://cdn.pixabay.com/photo/2015/01/07/16/37/wood-591631_1280.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
